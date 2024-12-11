@@ -120,11 +120,32 @@
   <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-JSXCDQ7F2J'); 
   </script>
   <!-- end Google tag -->
-  <script type="module" crossorigin src="/digital-deposit/assets/index-D36AzrkZ.js"></script>
+
+  <style>
+    /* 簡單的 Loading 樣式 */
+    #loading-screen {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: #fff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+      z-index: 9999;
+    }
+  </style>
+  <script type="module" crossorigin src="/digital-deposit/assets/index-CIXCxdfX.js"></script>
   <link rel="stylesheet" crossorigin href="/digital-deposit/assets/index-Bpu1Z7Ae.css">
 </head>
 
 <body>
+  <div id="loading-screen">
+    <img src="/digital-deposit/loading.gif" alt="Loading.." />
+  </div>
+  
   <div id="app"></div>
   </script>
 

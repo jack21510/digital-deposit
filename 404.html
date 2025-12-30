@@ -27,66 +27,22 @@
   fbq('track', "PageView");</script>
   
   <!-- End Facebook Pixel Code -->
-  
-  <!-- google GDN  -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16749560956"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'AW-16749560956');
-  </script>
-  <!-- end google GDN  -->
 
-  <!-- google GDN  -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16749560956"></script>
+  <!-- GA4 + Google Ads：單一載入，多帳號多次 config -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSXCDQ7F2J"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
+    function gtag(){ dataLayer.push(arguments); }
     gtag('js', new Date());
-    gtag('config', 'AW-16749560956');
-  </script>
-  <!-- end google GDN  -->
 
-  <!-- google GDN  -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16749560956"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'AW-16749560956');
-  </script>
-  <!-- end google GDN  -->
+    // GA4
+    gtag('config', 'G-JSXCDQ7F2J');
 
-  <!-- google search  -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11053924150"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'AW-11053924150');
+    // Google Ads (不要重覆再引入 gtag.js，只要多次 config)
+    gtag('config', 'AW-16749560956'); // GDN
+    gtag('config', 'AW-11053924150'); // Search
+    gtag('config', 'AW-16749457287'); // YT
   </script>
-  <!-- end google search  -->
-
-  <!-- google YT  -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16749457287"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'AW-16749457287');
-  </script>
-  <!-- end google YT  -->
 
   <!-- LINE Tag  -->
   <script async>
@@ -104,12 +60,6 @@
     _lt('send', 'pv', ['5383ee0a-0b2f-45db-926a-2add015775b2']);
     </script>
   <!-- end LINE Tag  -->
-
-  <!-- Google tag -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-JSXCDQ7F2J"></script> 
-  <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-JSXCDQ7F2J'); 
-  </script>
-  <!-- end Google tag -->
 
   
 
@@ -141,8 +91,8 @@
       }
     }
   </style>
-  <script type="module" crossorigin src="/digital-deposit/assets/index-BvgEBxgw.js"></script>
-  <link rel="stylesheet" crossorigin href="/digital-deposit/assets/index-DiO2SquL.css">
+  <script type="module" crossorigin src="/digital-deposit/assets/index-B9bVeXpY.js"></script>
+  <link rel="stylesheet" crossorigin href="/digital-deposit/assets/index-ej2Tl7E7.css">
 </head>
 
 <body>

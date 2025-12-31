@@ -1,4 +1,4 @@
-import{aU as n,aW as t,aX as e,a9 as a,aY as i}from"./index-COnesPgy.js";const b={id:1,title:"(中獎公告)想薦你～揪好友開數存同享 100 元回饋再抽 BUBI 好禮",overviewImage:n.CAMPAIGN_1,detailImage:n.CAMPAIGN_1_DETAIL_MAIN,content:[new t({title:"活動期間",content:"113.12.10 - 114.3.31",buttonTextList:[],attentionText:""}),new t({title:"活動對象",content:`<span class="font-medium">推薦人：</span>已持有臺灣銀行（以下稱本行）新臺幣數位存款帳戶之本國自然人用戶（以下稱推薦人）。
+import{aU as n,aW as t,aX as e,a9 as a,aY as i}from"./index-R_BtWZYw.js";const b={id:1,title:"(中獎公告)想薦你～揪好友開數存同享 100 元回饋再抽 BUBI 好禮",overviewImage:n.CAMPAIGN_1,detailImage:n.CAMPAIGN_1_DETAIL_MAIN,content:[new t({title:"活動期間",content:"113.12.10 - 114.3.31",buttonTextList:[],attentionText:""}),new t({title:"活動對象",content:`<span class="font-medium">推薦人：</span>已持有臺灣銀行（以下稱本行）新臺幣數位存款帳戶之本國自然人用戶（以下稱推薦人）。
 <span class="font-medium">被推薦人：</span>活動開始前未曾開立過本行數位存款帳戶之本國自然人用戶（以下稱被推薦人）。
 ※本活動排除本行行員。`,buttonTextList:[],attentionText:""}),new t({title:"活動內容",content:`<span class="font-medium">想薦禮： </span>被推薦人於活動期間首次申請並完成開立數位存款，並於開戶時完成填寫推薦人<span class="text-primary-900">專屬推薦碼</span>，且需完成「好友禮」任務，其所屬推薦人即可獲得新臺幣（以下同）100 元回饋金，推薦人數無上限。
 <span class="font-medium">好友禮： </span>被推薦人於活動期間首次申請並完成開立本行「新臺幣數位存款帳戶」及「外匯數位存款帳戶」，且使用本行「臺銀行動+」APP 之「臺銀支付」綁定該新臺幣數位存款帳戶，即可獲得 100 元回饋金，「好友禮」每人限回饋 1 次。
@@ -65,7 +65,7 @@ import{aU as n,aW as t,aX as e,a9 as a,aY as i}from"./index-COnesPgy.js";const b
 線上申辦加碼禮僅適用線上申辦綠行卡、一卡通鈦金商旅卡及一卡通導盲犬認同卡等三種卡別。
 「新戶首刷禮」（含線上申辦加碼）及「台灣 Pay 升級禮」每一正卡持卡人限各別回饋乙次，如新戶同時申請多張信用卡，僅視第一張核卡身分為新戶。
 符合回饋資格者，本行將於新戶首刷禮消費截止日之次次月底前發送兌換序號之簡訊至正卡人留存於本行之手機門號。
-※回饋範例：客戶透過雲端銀行線上申請信用卡，於 1/15 核卡，3/31 前累計一般消費達 3,000 元以上，且包含一筆台灣 Pay 掃碼交易，則客戶同時符合新戶首刷禮、線上申辦加碼及台灣 Pay 升級禮回饋資格，本行將於 5/31 前發送兌換序號簡訊。
+※回饋範例：客戶透過線上申請專區線上申請信用卡，於 1/15 核卡，3/31 前累計一般消費達 3,000 元以上，且包含一筆台灣 Pay 掃碼交易，則客戶同時符合新戶首刷禮、線上申辦加碼及台灣 Pay 升級禮回饋資格，本行將於 5/31 前發送兌換序號簡訊。
 「7-ELEVEN 購物金」為電子票券形式，客戶點選電子票券連結網址開啟網頁票券，其使用方式及期限詳見券面說明。
 活動期間至兌換序號簡訊發送前，信用卡正卡人若有強制停用、申請停用、掛失不補發、逾期繳款、到期不續卡者、取消交易或依信用卡約定條款強制停止信用卡持卡人使用信用卡情形者，本行得取消其參與活動資格。
 有非可歸責於本行之事由致活動方式變更，本行保留活動修改、取消之權利，並依信用卡業務機構管理辦法第 19 條規範辦理。
@@ -83,10 +83,10 @@ import{aU as n,aW as t,aX as e,a9 as a,aY as i}from"./index-COnesPgy.js";const b
 房貸戶如於優惠回饋期間結清，自結清日次月起結帳之帳單不適用本加碼回饋專案。   
 優惠回饋期間，持卡人若有強制停用、申請停用、掛失不補發、逾期繳款、到期不續卡者、取消交易或依信用卡約定條款強制停止信用卡持卡人使用信用卡情形者，本行得取消其參與活動資格或將未折抵之回饋金歸零。
 有非可歸責於本行之事由致活動方式變更，本行保留活動修改、取消之權利，並依信用卡業務機構管理辦法第 19 條規範辦理。
-臺灣銀行保留修改、解釋、終止活動內容細節之權利。`,buttonTextList:[],attentionText:""})],L={id:5,title:"房貸戶信用卡加碼 3% 回饋",overviewImage:n.CAMPAIGN_5,detailImage:n.CAMPAIGN_5_DETAIL_MAIN,content:c,attentionText:new e({label:"謹慎理財 信用無價",content:"信用卡循環信用年利率：本行定儲利率指數（按季）+ 客戶信用等級加碼利率（4.25%~10.25%），依電腦評等而定，年息以銀行法所定之最高利率為上限，基準日為 104 年 12 月 1 日。<br>預借現金手續費：預借金額 x 3% + 新臺幣 150 元。其他相關費用依本行網站公告。"}),showDecimal:!0},T=[new t({title:"新臺幣數位存款帳戶優惠",content:"",buttonTextList:[],attentionText:""}),new t({title:"活動期間",content:"115.1.1 - 115.12.31",buttonTextList:[],attentionText:""}),new t({title:"優惠對象",content:"本行新臺幣數位存款帳戶的客戶。",buttonTextList:[],attentionText:""}),new t({title:"高利活存",content:`存款新臺幣 10 萬元（含）以內，按新臺幣定期儲蓄存款一年期一般機動利率加 0.36% 計息；超過新臺幣 10 萬元部分以活期儲蓄存款的牌告利率計息。<br>優惠期間結束後，依本行活期儲蓄存款的牌告利率計息。<br>請查看 新臺幣存（放）款牌告利率。
+臺灣銀行保留修改、解釋、終止活動內容細節之權利。`,buttonTextList:[],attentionText:""})],L={id:5,title:"房貸戶信用卡加碼 3% 回饋",overviewImage:n.CAMPAIGN_5,detailImage:n.CAMPAIGN_5_DETAIL_MAIN,content:c,attentionText:new e({label:"謹慎理財 信用無價",content:"信用卡循環信用年利率：本行定儲利率指數（按季）+ 客戶信用等級加碼利率（4.25%~10.25%），依電腦評等而定，年息以銀行法所定之最高利率為上限，基準日為 104 年 12 月 1 日。<br>預借現金手續費：預借金額 x 3% + 新臺幣 150 元。其他相關費用依本行網站公告。"}),showDecimal:!0},T=[new t({title:"新臺幣數位存款帳戶優惠",content:"",buttonTextList:[],attentionText:""}),new t({title:"優惠期間",content:"115.1.1 - 115.12.31",buttonTextList:[],attentionText:""}),new t({title:"優惠對象",content:"本行新臺幣數位存款帳戶的客戶。",buttonTextList:[],attentionText:""}),new t({title:"高利活存",content:`存款新臺幣 10 萬元（含）以內，按新臺幣定期儲蓄存款一年期一般機動利率加 0.36% 計息；超過新臺幣 10 萬元部分以活期儲蓄存款的牌告利率計息。<br>優惠期間結束後，依本行活期儲蓄存款的牌告利率計息。<br>請查看 新臺幣存（放）款牌告利率。
 起息金額：存款每日餘額未達起息金額者（新臺幣 5,000 元），不計算當日存款利息；已達規定起息金額者，其計息單位為新臺幣 100 元，未達新臺幣 100 元者，不計算當日存款利息。
 領息方式：每月 20 日結息 1 次，於次日轉入本金。如未屆結算期而中途結清銷戶，其利息按實際存款期間計付。
-計息方式：按日計息。藉由自動化設備（ATM）或網路銀行等方式於營業時間外（含例、休假日）以現金、轉帳或匯款存入的活期性存款，皆於存入當日開始計息，切換點為當日 24 時整。`,buttonTextList:[{title:"新臺幣存（放）款牌告利率",url:"https://rate.bot.com.tw/twd?Lang=zh-TW"}],attentionText:""}),new t({title:"網銀跨轉",content:`網路銀行（含行動銀行 APP）跨行轉帳每月享 99 次免收手續費優惠。
+計息方式：按日計息。藉由自動化設備（ATM）或網路銀行等方式於營業時間外（含例、休假日）以現金、轉帳或匯款存入的活期性存款，皆於存入當日開始計息，切換點為當日 24 時整。`,buttonTextList:[{title:"新臺幣存（放）款牌告利率",url:"https://rate.bot.com.tw/twd?Lang=zh-TW"}],attentionText:""}),new t({title:"網銀跨轉",content:`網路銀行（含臺銀行動+APP）跨行轉帳每月享 99 次免收手續費優惠。
 <p class="text-black-500">※同時享有「115 年網銀客戶優惠方案」。</p><p class="text-black-500">※舉例說明：小羅已開立本行新臺幣數位存款帳戶，並已完成「網路銀行」功能啟用，於優惠期間，除新臺幣數位存款帳戶每月跨行轉帳 99 次優惠免收手續費用外，再享有「115 年網銀客戶優惠方案」（於 115 年 1 月 1 日至 115年 12 月 31 日止），每一網路銀行客戶享每月 1 次跨行轉帳免手續費優惠，持用本行信用卡（含達人 VISA 金融卡） 當月累計「一般消費」且「商店完成請款」的金額單一卡別達新臺幣 3,000 元，同一 ID 於次月可再享有 3 次網路銀行跨行轉帳免手續費優惠（正、附卡優惠次數分開計算）， 合併最高可享每月 103 次免收跨行轉帳手續費優惠。</p><p class="text-black-500">※優惠條件限制：當月未使用完畢的剩餘優惠次數不得累積或遞延至次月。</p>`,buttonTextList:[],attentionText:""}),new t({title:"VISA 卡片優惠",content:`開戶即可擁有 <span class="text-primary-900">BUBI VISA 金融卡</span>。
 實體 ATM 跨行轉帳/跨行提款手續費優惠（本優惠不包含網路 ATM）：持新臺幣數位存款晶片金融卡於實體 ATM 進行跨行轉帳及跨行提款，每月享各 10 次免收手續費優惠。
 <p class="text-black-500">※優惠條件限制：當月未使用完畢的剩餘優惠次數不得累積或遞延至次月。</p>

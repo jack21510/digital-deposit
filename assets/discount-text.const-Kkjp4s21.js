@@ -1,4 +1,4 @@
-import{aU as n,aW as t,aX as e,a9 as a,aY as i}from"./index-CCGqBEdE.js";const b={id:1,title:"(中獎公告)想薦你～揪好友開數存同享 100 元回饋再抽 BUBI 好禮",overviewImage:n.CAMPAIGN_1,detailImage:n.CAMPAIGN_1_DETAIL_MAIN,content:[new t({title:"活動期間",content:"113.12.10 - 114.3.31",buttonTextList:[],attentionText:""}),new t({title:"活動對象",content:`<span class="font-medium">推薦人：</span>已持有臺灣銀行（以下稱本行）新臺幣數位存款帳戶之本國自然人用戶（以下稱推薦人）。
+import{aU as n,aW as t,aX as e,a9 as a,aY as i}from"./index-BJoH-46M.js";const b={id:1,title:"(中獎公告)想薦你～揪好友開數存同享 100 元回饋再抽 BUBI 好禮",overviewImage:n.CAMPAIGN_1,detailImage:n.CAMPAIGN_1_DETAIL_MAIN,content:[new t({title:"活動期間",content:"113.12.10 - 114.3.31",buttonTextList:[],attentionText:""}),new t({title:"活動對象",content:`<span class="font-medium">推薦人：</span>已持有臺灣銀行（以下稱本行）新臺幣數位存款帳戶之本國自然人用戶（以下稱推薦人）。
 <span class="font-medium">被推薦人：</span>活動開始前未曾開立過本行數位存款帳戶之本國自然人用戶（以下稱被推薦人）。
 ※本活動排除本行行員。`,buttonTextList:[],attentionText:""}),new t({title:"活動內容",content:`<span class="font-medium">想薦禮： </span>被推薦人於活動期間首次申請並完成開立數位存款，並於開戶時完成填寫推薦人<span class="text-primary-900">專屬推薦碼</span>，且需完成「好友禮」任務，其所屬推薦人即可獲得新臺幣（以下同）100 元回饋金，推薦人數無上限。
 <span class="font-medium">好友禮： </span>被推薦人於活動期間首次申請並完成開立本行「新臺幣數位存款帳戶」及「外匯數位存款帳戶」，且使用本行「臺銀行動+」APP 之「臺銀支付」綁定該新臺幣數位存款帳戶，即可獲得 100 元回饋金，「好友禮」每人限回饋 1 次。
@@ -39,7 +39,7 @@ import{aU as n,aW as t,aX as e,a9 as a,aY as i}from"./index-CCGqBEdE.js";const b
 每 10 點「台灣 Pay 紅利點數」價值等同於新臺幣 1 元。
 本活動將依符合活動資格用戶交易時序核算回饋資格，活動期間每一用戶每月回饋上限新臺幣 100 元等值「台灣 Pay 紅利點數」，本行「台灣 Pay 紅利點數」使用辦法詳本行官網。`:`本活動排除以感應支付 NFC、轉帳及轉帳購物、繳費、繳稅、購物跨境交易。
 每 10 點「台灣 Pay 紅利點數」價值等同於新臺幣 1 元。
-本活動將依符合活動資格用戶交易時序核算回饋資格，活動期間每一用戶每月回饋上限新臺幣 100 元等值「台灣 Pay 紅利點數」，本行「台灣 Pay 紅利點數」使用辦法詳本行官網。`,buttonTextList:[{title:"本行官網",url:"https://www.bot.com.tw/tw/other-pages/announcement/c9b93914-46d0-ec11-bd3f-d6349fe3548c/74f28897-f5c2-ed11-a6e2-98f2b3145f40"}],attentionText:""}),new t({title:"注意事項",content:`本行就用戶之資格、交易成功與否等，保有審查之權利，經查核若有不符本活動之規定者，本行得取消其參加資格，並得追回「台灣 Pay 紅利點數」。
+本活動將依符合活動資格用戶交易時序核算回饋資格，活動期間每一用戶每月回饋上限新臺幣 100 元等值「台灣 Pay 紅利點數」，本行「台灣 Pay 紅利點數」使用辦法詳本行官網。`,buttonTextList:[{title:"本行官網",url:"https://www.bot.com.tw/tw/other-pages/announcement/content/74f28897-f5c2-ed11-a6e2-98f2b3145f40"}],attentionText:""}),new t({title:"注意事項",content:`本行就用戶之資格、交易成功與否等，保有審查之權利，經查核若有不符本活動之規定者，本行得取消其參加資格，並得追回「台灣 Pay 紅利點數」。
 用戶同意其所留存或產生之任何參與本活動的資料及紀錄，皆以本行之電腦系統與時間為準。
 對於以偽造、詐欺、冒名或其他不正當方式意圖兌領之用戶，經查證屬實者，本行有權排除其參與本活動，如因此造成本行損害，將依法對該用戶請求損害賠償。
 用戶已充分知悉且同意就本活動提供之個人資料，本行僅於此次活動範圍內進行蒐集、處理及利用，且遵守【個人資料保護法】相關規定辦理。
